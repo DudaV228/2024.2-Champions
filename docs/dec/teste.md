@@ -1,4 +1,4 @@
-# teste
+# testes
 ## Regra de Negócio 1: Status de Aprovação
 - Se a média final de um aluno em uma determinada disciplina for maior ou igual a 5 e a frequência for superior a 75%, então o aluno será considerado aprova
 ### Requisito Relacionado:
